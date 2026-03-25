@@ -1,5 +1,5 @@
 ## Hi! I'm Matias
-I'm a software engineering graduate with a focus on artificial intelligence and backend systems. I have experience building end-to-end machinel learning pipelines, cloud-based applications, and data driven solutions.
+I'm a software engineering graduate with a focus on artificial intelligence and backend systems. I have experience building end-to-end machine learning pipelines, cloud-based applications, and data driven solutions.
 
 Currently seeking opportunities where I can apply machine learning, data analysis, and cloud technologies to build practical, real-world systems.
 
