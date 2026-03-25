@@ -5,16 +5,16 @@ Currently seeking opportunities where I can apply machine learning, data analysi
 
 ## Projects
 
-### Manatee Call Detection
+### [Manatee Call Detection](https://github.com/Matf021/manatee-call-detection)
 - Developed a Variational Gaussian HMM for detecting marine mammal vocalizations
 - Built an audio processing pipeline using MFCC feature extraction
 - Achieved ~90% detection accuracy
 
-### AWS Voice Notes Organizer
+### [AWS Voice Notes Organizer](https://github.com/Matf021/aws-voice-notes-organizer)
 - Built a serverless application using AWS Transcribe and Comprehend
 - Designed REST APIs with AWS Chalice for audio processing and NLP analysis
 
-### NLP Sentiment Analysis
+### [NLP Sentiment Analysis](https://github.com/Matf021/nlp-sentiment-analysis)
 - Compared between VADER, TextBlob, and ML models for sentiment classification
 - Evaluated performance using accuracy, precision, and F1-score
 
