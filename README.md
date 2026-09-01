@@ -31,11 +31,11 @@ I'm currently seeking opportunities in data, cloud, backend development, and aut
 - Achieved approximately 86% classification accuracy with the strongest machine-learning models
 
 ## Technical Skills
-**Languages**: Python, SQL, PL/SQL, Java, JavaScript, TypeScript, HTML, CSS
-**Backend and APIs**: Flask, AWS Chalice, REST APIs
-**Data and AI:** Machine Learning, NLP, Scikit-learn, Data Processing, Model Evaluation
-**Cloud and Databases:** AWS, Oracle Database, PostgreSQL
-**Tools:** Git, GitHub, Docker, Linux
+**Languages**: Python, SQL, PL/SQL, Java, JavaScript, TypeScript, HTML, CSS  
+**Backend and APIs**: Flask, AWS Chalice, REST APIs  
+**Data and AI:** Machine Learning, NLP, Scikit-learn, Data Processing, Model Evaluation  
+**Cloud and Databases:** AWS, Oracle Database, PostgreSQL  
+**Tools:** Git, GitHub, Docker, Linux  
 
 <!--
 **Matf021/Matf021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
