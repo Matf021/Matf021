@@ -1,12 +1,25 @@
 ## Hi! I'm Matias
 
-I'm a Software Engineering graduate specializing in artificial intelligence, backend development, automation, and data-driven systems.
+I'm a Software Engineering graduate specializing in artificial intelligence, software development, backend systems, and automation, with a growing interest in creative coding, interactive graphics, and real-time 3D experiences.
 
-I enjoy building practical software that combines backend logic, data processing, cloud services, automation, and user-facing tools. My projects span machine learning, APIs, databases, desktop applications, and local-first productivity systems.
+I enjoy building software that combines technical problem-solving with thoughtful design. My projects span machine learning, cloud services, databases, desktop applications, and interactive web experiences.
 
-I'm currently seeking opportunities in software development, data, cloud, backend development, and automation where I can apply my technical skills to real-world problems.
+I'm particularly interested in exploring how mathematics, software engineering, and visual design come together to create engaging and technically sophisticated applications.
+
+I'm currently seeking opportunities in software engineering, backend development, data, cloud, and automation, while continuing to develop my skills in frontend engineering, computer graphics, and interactive systems.
+
+**Portfolio:** [matias-franco.com](https://matias-franco.com/)
 
 ## Featured Projects
+
+### [Interactive 3D Developer Portfolio](https://matias-franco.com/)
+- Designed and developed a responsive personal portfolio using Next.js, React, TypeScript, Tailwind CSS, and React Three Fiber
+- Built an interactive 3D constellation system featuring connected nodes, animated energy pulses, particle effects, and dynamic visual feedback
+- Implemented a cinematic camera navigation system using Bézier trajectories, easing functions, and context-aware selection framing
+- Developed custom star visuals, atmospheric lighting, glow effects, and layered animations to create a cohesive space-inspired environment
+- Integrated responsive information panels with camera-safe-area calculations to maintain visual composition across different screen sizes
+- Optimized real-time rendering and animation behavior to maintain smooth interactions and consistent performance
+- Deployed the application using Vercel with a custom domain and search-engine indexing configuration
 
 ### [Matt Daily Dashboard](https://github.com/Matf021/matt-daily-dashboard)
 - Built a local-first desktop productivity dashboard using Rainmeter, Lua, and PowerShell
@@ -23,10 +36,10 @@ I'm currently seeking opportunities in software development, data, cloud, backen
 - Integrated the detection pipeline into a Flask-based analysis application
 
 ### [AWS Voice Notes Organizer](https://github.com/Matf021/aws-voice-notes-organizer)
-- Built a serverless application that transcribes, organizes, and analyses recorded voice notes
+- Built a serverless application that transcribes, organizes, and analyzes recorded voice notes
 - Integrated AWS Transcribe and Amazon Comprehend for speech-to-text and natural-language processing
 - Designed REST APIs with AWS Chalice for audio uploads, transcription tracking, and text analysis
-- Implemented note categorization, sentiment analysis, key-phrase extraction, search, and favourites
+- Implemented note categorization, sentiment analysis, key-phrase extraction, search, and favorites
 
 ### [Oracle Hospitality Management Project](https://github.com/Matf021/Oracle-hospitality-management-project)
 - Designed a relational Oracle database for hotel reservations, room assignments, guest stays, folios, payments, and restaurant charges
@@ -43,8 +56,14 @@ I'm currently seeking opportunities in software development, data, cloud, backen
 
 ## Technical Skills
 
-**Languages:** Python, SQL, PL/SQL, Java, JavaScript, TypeScript, Lua, PowerShell, HTML, CSS  
-**Backend and APIs:** Flask, AWS Chalice, REST APIs  
-**Data and AI:** Machine Learning, NLP, Scikit-learn, Data Processing, Model Evaluation  
-**Cloud and Databases:** AWS, Oracle Database, PostgreSQL  
-**Development and Tools:** Git, GitHub, Docker, Linux, Rainmeter
+**Languages:** Python, SQL, PL/SQL, Java, JavaScript, TypeScript, Lua, PowerShell, HTML, CSS
+
+**Frontend and Interactive Development:** React, Next.js, Tailwind CSS, Three.js, React Three Fiber, 3D Animation, Interactive UI Development
+
+**Backend and APIs:** Flask, AWS Chalice, REST APIs
+
+**Data and AI:** Machine Learning, NLP, Scikit-learn, Data Processing, Model Evaluation
+
+**Cloud and Databases:** AWS, Oracle Database, PostgreSQL
+
+**Development and Tools:** Git, GitHub, Docker, Linux, Vercel, Rainmeter
